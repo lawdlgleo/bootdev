@@ -7,7 +7,7 @@ wheels/
 *.egg-info
 game_state.json1
 
-.vscode
+./ai-agent/.vscode
 
 # Virtual environments
 .venv
