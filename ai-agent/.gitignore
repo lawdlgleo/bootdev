@@ -10,5 +10,7 @@ wheels/
 .venv
 
 # secure env
+/model_scripts/*
+.vscode
 
 .env
