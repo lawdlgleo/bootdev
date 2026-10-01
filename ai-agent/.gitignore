@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # secure env
-/model_scripts/*
+model_scripts/directory
 .vscode
 
 .env
